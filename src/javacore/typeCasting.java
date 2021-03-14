@@ -12,7 +12,7 @@ public class typeCasting {
 		System.out.println("the value of a is " + a);
 		
 	
-		int c = a;
+		int c = (char)a;
 		
 		System.out.println("This is character " + (char)a);
 
